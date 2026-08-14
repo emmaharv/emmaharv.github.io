@@ -8,7 +8,7 @@ year: 2024
 venue: 'CHI'
 is_show: True
 pdf: https://dl.acm.org/doi/pdf/10.1145/3613904.3642004
-authors: <b>Emma Harvey</b>, <a href="https://haukesandhaus.de/">Hauke Sandhaus</a>, <a href="https://azjacobs.com/">Abigail Z. Jacobs</a>*, <a href="https://datasociety.net/people/moss-emanuel/">Emanuel Moss</a>*, and <a href="https://www.monasloane.org/">Mona Sloane</a>*
+authors: <b>Emma Harvey</b>, <a href="https://hauke.haus/">Hauke Sandhaus</a>, <a href="https://azjacobs.com/">Abigail Z. Jacobs</a>*, <a href="https://mossmoss24.github.io/">Emanuel Moss</a>*, and <a href="https://www.monasloane.org/">Mona Sloane</a>*
 publication: ACM CHI Conference on Human Factors in Computing Systems (<b>CHI</b>)
 highlight: True
 highlight_reason: <b style='color:#6059f5'>Best Paper Honorable Mention</b>
